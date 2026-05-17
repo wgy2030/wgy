@@ -876,11 +876,6 @@ a {
     padding-left: 1.5rem;
   }
 }
-@media (min-width: 992px) {
-  .cid-vjRrRVrWqA .navbar-nav {
-    padding-left: 1.5rem;
-  }
-}
 .cid-vjRrRVrWqA .nav-link {
   width: fit-content;
   position: relative;
